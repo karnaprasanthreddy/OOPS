@@ -1,7 +1,7 @@
 package Inheritance;
 
 public class Parent {
-	
+	//added comment above int variable
 	int a=10;
 	void m1()
 	{
